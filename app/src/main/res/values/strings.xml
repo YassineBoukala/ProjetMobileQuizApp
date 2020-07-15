@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="name_hint" translatable="false">Name</string>
+    <string name="location_hint" translatable="false">Location</string>
+    <string name="email_hint" translatable="false">Email</string>
+    <string name="password_hint" translatable="false">Password</string>
+
+    <string name="login_txtregister_text" translatable="false">To Register Click Here</string>
+    <string name="maps_api_key" translatable="false">AIzaSyBddEUBAiqyBPIiGtc5oDKSgI8lDglAz7s</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps2">Map</string>
+
+</resources>
